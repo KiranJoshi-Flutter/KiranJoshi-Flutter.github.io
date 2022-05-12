@@ -48846,7 +48846,7 @@ L(a,b){return new A.ql(new A.qy(null),null)}}
 A.qy.prototype={
 aE(){return new A.ED(B.o)}}
 A.ED.prototype={
-L(a,b){var s=null,r=A.a0J("Hello Prashant Khanal",s,s,s),q=A.a0J("Hello Prashant. Press this Counter App.",A.nq(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),p=A.Bl(s,10,s),o=A.a0J(""+this.d,A.nq(s,s,s,s,s,s,s,s,s,s,s,30,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)
+L(a,b){var s=null,r=A.a0J("Counter app for Prashant Khanal.",s,s,s),q=A.a0J("Hello Prashant. Press this Counter App.",A.nq(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),p=A.Bl(s,10,s),o=A.a0J(""+this.d,A.nq(s,s,s,s,s,s,s,s,s,s,s,30,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)
 return new A.rs(new A.oJ(r,new A.Fp(s,s,1/0,56),s),A.Ju(A.acz(A.b([q,p,o,new A.pP(A.aeF(s,s,new A.oM("assets/images/akshya-kumar.png",s,s)),s)],t.fQ),B.Ap),s,s),A.a3D(A.a3N(B.wK),!1,new A.WO(this)),s)}}
 A.WO.prototype={
 $0(){var s=this.a
